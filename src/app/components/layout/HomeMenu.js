@@ -15,7 +15,7 @@ export default function HomeMenu() {
                     </div>
                 </div>
 
-                <div className="text-center mb-4">
+                <div className="text-center my-4">
                     <SectionHeaders subHeader={'Check out'} mainHeader={'Menu'} />
                 </div >
 
@@ -66,9 +66,6 @@ export default function HomeMenu() {
                 </div>
             </section>
 
-            <footer className="border-t p-8 text-center text-gray-500 mt-16">
-                &copy; 2024 all rights reserved
-            </footer>
         </>
     )
 }
